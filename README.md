@@ -20,6 +20,14 @@ ___
 __DAX REFERENCE:__
 ___
 ## FINDINGS AND DATA ANALYSIS
+![Superstore Analysis Welcome Page](https://user-images.githubusercontent.com/78387629/186147511-0d9d44e0-79fe-41d7-b73a-54e7dd09290f.jpg)
+
+![Superstore Analysis Second Page](https://user-images.githubusercontent.com/78387629/186147544-8dd361f6-bbb0-4653-be2d-7ce525809182.jpg)
+
+![Superstore Analysis Third Page](https://user-images.githubusercontent.com/78387629/186147586-e940e314-4e8e-4ef3-a78d-c63d7d076baf.jpg)
+
+![Superstore Analysis Fourth Page](https://user-images.githubusercontent.com/78387629/186147632-53c52c90-6d54-4e48-8a5f-1ed3bd6d0a38.jpg)
+
 ___
 ## RECOMMENDATION
 ___
