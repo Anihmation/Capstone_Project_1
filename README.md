@@ -51,5 +51,7 @@ ___
 ## CONCLUSION
 ___
 ### ATTRIBUTION
-The Introductory picture was gotten from Tima Miroshnichenko at Pexels.
+- The Introductory picture was gotten from Tima Miroshnichenko at Pexels.
+- The icons used is attributed to Unicode
+- The dataset I used for the work is attributed to https://github.com/Fabulousnani
 ___
