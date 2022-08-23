@@ -59,7 +59,7 @@ ___
 ## RECOMMENDATION
 ___
 ## CONCLUSION
-___
+In conclusion, I will say if all these recommendations of mine are implemented appropriately, the business revenue will be maximized greatly from a 10% annual increase to about 40% annual increase. As one can vividly see how the data analysis has been essential in determining the Factors to maximizing the business revenue.___
 ### ATTRIBUTION
 - The Introductory picture was gotten from Tima Miroshnichenko at Pexels.
 - The icons used is attributed to Unicode
