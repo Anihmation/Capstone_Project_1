@@ -45,6 +45,16 @@ ___
 
 ![Superstore Analysis Fourth Page](https://user-images.githubusercontent.com/78387629/186147632-53c52c90-6d54-4e48-8a5f-1ed3bd6d0a38.jpg)
 
+-	The Business has been quite profitable over the four years, with a 10-20% increase per succeeding year.
+-	The Superstores booms in California and New York the most, with a 74K and 76K profit respectively, making the two the most revenue generating States.
+-	The Superstores suffers a great loss in Texas and Ohio the most, with a 26K and 17K loss respectively, making the two the least revenue generating States.
+-	The total cost and total Profit over the months have a similar trendline, showing their relationship over the time being to be progressive in nature.
+-	The Business makes the most Sales and Profit in the West Region with a 725K Sales over a 108k profit, whereas the business makes the least sales in the South Region of 391K but the least Profit in the Central Region of 39K.
+-	Organic as a Sales Rep yields the most Profit of 183K, while Jessica Smith yields the least Profit of 2.95K.
+-	The Standard Class, Ship Mode yields the most gain of 164K while The Same Day Ship Mode yields just about 16K.
+-	The Consumer segment when it comes to Customers yields the most profit of 134k for the Business.
+-	When it comes to Product Category, Technology yields the most Profit of 145K, while Furniture yields the least Profit of 18K.
+-	When it comes to Sales Team Organic is matchless to Profit generation.
 ___
 ## RECOMMENDATION
 ___
