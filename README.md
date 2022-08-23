@@ -22,7 +22,7 @@ I then created a Power BI file to connect the dataset. I used Power BI to Explor
 After connecting the Excel Workbook to the Power BI in the Model Page, I observed the other 4 workbooks gives details to the Sales workbook but only 2 was in connection, seeing that Power Query gave ‘Products’ and ‘Customers’ Tables new headers. I quickly transformed the data using ‘Use First Row as Headers’ button in Power Query once more, afterwards every workbook connected to the ‘Sales’ Table.
 
 I opened the Report Page where I carried out some DAX (Data Analysis Expressions) to ascertain variables that will help my analysis namely: the ‘Sales after Discount’, ‘Total Discount’, ‘Total Cost’, ‘Total Profit’, ‘Total Quantity’ and ‘Total Sales’. Afterwards I built the Data Visualizations in the Report Page. I did some formatting to the visuals, choosing the most suitable visual to present the Data. I also introduced slicers to enhance my visuals only in the first sheet. I also introduced Page navigation buttons in a ribbon to depict a Web App interface.
-I also used basic PowerPoint knowledge to provide a few design elements to my Page Backgrounds.
+I also used basic PowerPoint knowledge to provide a few design elements to enhance the Data Visualization.
 All this were used to dig deep into the data and arrive at insightful results
 
 __DAX REFERENCE:__
