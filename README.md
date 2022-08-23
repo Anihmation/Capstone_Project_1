@@ -14,6 +14,7 @@ I sourced the data used from github. Here's the link:
 - https://github.com/Fabulousnani/Data-Developer-Bootcamp/blob/main/SuperStore_Normalized.xlsx
 ___
 ## PROBLEM STATEMENT
+The Business problem is the basically maximizing the Store’s Profit; and through my analysis, I would discover the determining factors of the revenue and derive a workable solution to scale it.
 ___
 ## DESIGN METHODOLOGY
 
