@@ -45,7 +45,7 @@ ___
 
 ![Superstore Analysis Fourth Page](https://user-images.githubusercontent.com/78387629/186147632-53c52c90-6d54-4e48-8a5f-1ed3bd6d0a38.jpg)
 
--	The Business has been quite profitable over the four years, with a 10-20% increase per succeeding year.
+-	The Business has been quite profitable over the four years, with a 10-20% annual increase.
 -	The Superstores booms in California and New York the most, with a 74K and 76K profit respectively, making the two the most revenue generating States.
 -	The Superstores suffers a great loss in Texas and Ohio the most, with a 26K and 17K loss respectively, making the two the least revenue generating States.
 -	The total cost and total Profit over the months have a similar trendline, showing their relationship over the time being to be progressive in nature.
@@ -57,9 +57,14 @@ ___
 -	When it comes to Sales Team Organic is matchless to Profit generation.
 ___
 ## RECOMMENDATION
+-	I will recommend more products to be supplied to the West as the Region with the highest sales over the years.
+-	I commend Organic Sales Team and suggest situating them squarely in high and low yielding States.
+-	I will recommend some discounts on the same day delivery to encourage that set of customers.
+-	I will also suggest the Company concentrates much more in Technology when it comes to Product category.
 ___
 ## CONCLUSION
-In conclusion, I will say if all these recommendations of mine are implemented appropriately, the business revenue will be maximized greatly from a 10% annual increase to about 40% annual increase. As one can vividly see how the data analysis has been essential in determining the Factors to maximizing the business revenue.___
+In conclusion, I will say if all these recommendations of mine are implemented appropriately, the business revenue will be maximized greatly from a 10% annual increase to about 40% annual increase. As one can vividly see how the data analysis has been essential in determining the Factors to maximizing the business revenue.
+___
 ### ATTRIBUTION
 - The Introductory picture was gotten from Tima Miroshnichenko at Pexels.
 - The icons used is attributed to Unicode
